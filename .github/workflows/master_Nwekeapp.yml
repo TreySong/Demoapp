@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'Nwekeapp'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_d1ce1cf64f4741e7871aff1e43513ff0 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_dcf8d9ddf8e6438a9cbda239c328291a }}
         package: .
